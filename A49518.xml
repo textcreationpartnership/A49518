@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Right Honourable the Lord-Mayor, the aldermen and governours of the several hospitals of the city of London, at St. Bridgets Church, on Wednesday in Easter week, 1698 being one of the anniversary spittle-sermons / by Tho. Lynford ...</title>
+            <author>Lynford, Thomas, 1650-1724.</author>
+         </titleStmt>
+         <extent>Approx. 48KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49518</idno><idno type="EEBO-CITATION">13673655</idno>
+  <idno type="VID">101203</idno>
+  <idno type="EEBO-PROQUEST">2240896668</idno>
+  
+            <idno type="STC">Wing L3569</idno>
+            <idno type="STC">ESTC R3444</idno>
+            <idno type="OCLC">13673655</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101203)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 794:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Right Honourable the Lord-Mayor, the aldermen and governours of the several hospitals of the city of London, at St. Bridgets Church, on Wednesday in Easter week, 1698 being one of the anniversary spittle-sermons / by Tho. Lynford ...</title>
+                  <author>Lynford, Thomas, 1650-1724.</author>
+               </titleStmt>
+               <extent>[2], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption and running title: A spittle-sermon preached before the Lord-Mayor.</note>
+                  <note>Advertisement: p. 27.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Timothy, 1st, VI, 17-19 --  Sermons.</term>
+               <term type="topical_term">Wealth --  Moral and ethical aspects --  Sermons.</term>
+               <term type="topical_term">Wealth --  Moral and ethical aspects --  Early works to 1800.</term>
+               <term type="topical_term">Avarice --  Sermons.</term>
+               <term type="topical_term">Avarice --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101203:1"/>
+            <p>A SERMON Preached before the Right Honourable the Lord-Mayor, THE ALDERMEN AND Governours of the several Hospitals OF THE CITY of <hi>LONDON;</hi> At St. <hi>Bridgets</hi> Church, On <hi>Wednesday</hi> in <hi>Easter</hi> Week, 1698.</p>
+            <p>
+               <hi>Being One of the Anniversary Spittle-Sermons.</hi>
+            </p>
+            <p>By <hi>THO. LYNFORD,</hi> D. D. and Chaplain in Ordinary to His Majesty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Bishops Head</hi> in St. <hi>Pauls Church-yard,</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:101203:2"/>
+            <pb n="1" facs="tcp:101203:2"/>
+            <head>A <hi>Spittle-Sermon</hi> Preached before the Lord-Mayor.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 TIM. vj. 17, 18, 19.</hi>
+                  </bibl>
+                  <p>Charge them that are Rich in this World that they be not high-minded, nor trust in uncertain Riches, but in the Living God, who giveth us richly all things to enjoy.</p>
+                  <p>That they do good, that they be rich in good Works, ready to distribute, willing to communicate.</p>
+                  <p>Laying up in store for themselves a good foundation against the time to come, that they may lay hold on Eternal Life.</p>
+               </q>
+            </epigraph>
+            <p>THE Apostle had in the foregoing part of the Chapter discoursed much against Covetous<g ref="char:EOLhyphen"/>ness, and very seriously advised <hi>Timothy</hi> to be aware of the love of Money, as being the <hi>root of all evil. But thou, O man of God, flee these things.</hi> And here, in the close of his Epistle, he presseth him to
+<pb n="2" facs="tcp:101203:3"/>urge the same thing upon others, and to teach the Rich Merchants of <hi>Ephesus</hi> the true use of Worldly Wealth; which does not consist in hoarding up abundance, but in laying out to the best advantage what a Man is possessed of.</p>
+            <p>He would not have them forbid the honest acquisi<g ref="char:EOLhyphen"/>tion or possession of the good Things of this Life. They might lawfully injoy as much of them as either by the common course of the World fell to be their Lot and Portion, or they by their honest Labour and Industry could obtain, provided they did so moderate their Affections in respect of them as neither to act any thing that was sinful for the obtaining them, nor when they had got them to be high-minded, nor to trust in them, but to be Charitable, and to do all the Good they could with them.</p>
+            <p>These Three last are the Duties in the Text, which having first discoursed of, I shall then consider the Ar<g ref="char:EOLhyphen"/>guments here laid down to enforce the Practice of them, as well as the Obligation which lies upon the Ministers of the Gospel to teach others the Necessity and Advantage of them.</p>
+            <p>Among the Duties which they who are Rich in the World must be charged to observe,</p>
+            <p>The First is, <hi>That they be not high-minded.</hi> So strong is the desire of being thought to excel others, that many phansie that to be Excellent in themselves which really is not: Others, because they would fain be ad<g ref="char:EOLhyphen"/>mired, dress up themselves in borrowed Colours, and ascribe that to themselves which they are inwardly con<g ref="char:EOLhyphen"/>scious they have no reason to pretend to. Now if Men can be thus conceited of their own Fictions, can set up within their Breasts an Idol of their own mak<g ref="char:EOLhyphen"/>ing,
+<pb n="3" facs="tcp:101203:3"/>and then fall down and worship it; how easily may they be tempted to value themselves upon the account of those things which all the World admires as well as they?</p>
+            <p>Riches and Worldly Greatness carry such a lustre and brightness along with them, are so greedily per<g ref="char:EOLhyphen"/>sued as being so many ways subservient to Ease and Luxury, that it is no wonder if many believe themselves so much more honourable and worthy by how much a greater Portion they have of them, and on the other hand think those most unworthy, most to be despised, who most want them.</p>
+            <p>Which is never more seen than in such, who in a low Condition were most humble and crouching, but when advanced to Preferment and Greatness are most insolent of all others.</p>
+            <p>Now nothing is more manifest than that the design of our Saviours coming in the Flesh was to wean us, even from the love of the Things of this World; and if so, then to be sure from entertaining too good an Opinion of our selves upon the account of them. That this was our Saviours design is evident from the mean<g ref="char:EOLhyphen"/>ness of his own appearing; from his pronouncing those to be blessed who are meek and poor in Spirit; and from his condescending to converse with, and to admi<g ref="char:EOLhyphen"/>nister to the Necessities of the most weak part of Man<g ref="char:EOLhyphen"/>kind.</p>
+            <p>Further, since what we injoy does not proceed from our own Strength or Wit, but is the free Gift of God, what Reason can we have to be proud of what we are beholden to another for?</p>
+            <p>Or if this be not sufficient to suppress all conceited Thoughts, and to make us think more modestly of our selves, let us impartially reflect upon our many Follies
+<pb n="4" facs="tcp:101203:4"/>and Indiscretions, our Errors and Ignorances; these being enough, amidst our greatest Prosperity, to shame us out of any vain and arrogant conceit of our selves upon the account of it.</p>
+            <p>If any thing can make us justly entertain a good Opinion of our selves, it must be Vertue and Good<g ref="char:EOLhyphen"/>ness; because these are Things truly valuable, and by which we make the nearest approaches to him whose Perfections are Infinite: But yet when we consider that although we have done never so much Good, we have likewise been guilty of a great deal of Sin and Folly; that whatever we have done of that kind has been done <hi>through the power of him that strengthens us;</hi> nay, that even our best Performances are lame and imperfect, and carry the stamp of Frailty upon them; we shall find that we have but little Reason, even for their sake, to cherish a high conceit of our selves, or mean opinion of others. How much less Reason then have we to do it upon the score of Things without us, which do not render us more perfect in our selves, nor contribute much to our Happiness, and which do promiscuously happen alike to all, to the most ignorant and most wick<g ref="char:EOLhyphen"/>ed as soon as to the most wise and most honest?</p>
+            <p>Secondly, <hi>They who are Rich in the World must be charged not to trust in their Riches, but in God</hi> How great soever our Possessions are they cannot secure us from Danger and Trouble, and therefore we must not place any confidence in them, but must look higher, and in our greatest Prosperity still own our dependance upon God, and beg his Blessing to go along with us in all our Undertakings. <hi>Some put their trust in Chariots and some in Horses,</hi> saith the Psalmist, but he is the most prudent, the most happy, <hi>who trusts in the Name of the
+<pb n="5" facs="tcp:101203:4"/>Lord.</hi> Whereas on the other hand, he is stiled <hi>the Fool,</hi> in the Gospel, who because his Ground brought forth plentifully was for taking his Ease and Rest, as if his present Wealth was a sufficient security against all cross Accidents whatsoever.</p>
+            <p>Riches, it is true, are of great use to make us pass through this World with more Comfort and Satisfaction, but it's God's Blessing only that can continue them to us. And therefore he is chiefly to be relyed upon, and these no otherwise to be valued than as they are Instru<g ref="char:EOLhyphen"/>ments under him, very well fitted to promote our pre<g ref="char:EOLhyphen"/>sent Content.</p>
+            <p>But this I shall have occasion more largely to insist on, when I consider the Arguments made use of by the Apostle to enforce the Duties in the Text.</p>
+            <p>The Third and last of which is, to be <hi>Charitable.</hi> To show the necessity whereof, as well as the manner of performing it aright, St. <hi>Paul</hi> makes use of several Expressions: <hi>Charge them that are Rich in the Word that they do good, that they be Rich in good Works, ready to distribute, willing to communicate.</hi> Each of which de<g ref="char:EOLhyphen"/>serves our particular Consideration.</p>
+            <p n="1">1. <hi>They who are Rich in this World must do Good.</hi> It is a very comprehensive Expression, and takes in all the several ways of being beneficial to Mankind. What<g ref="char:EOLhyphen"/>ever tends to the Advantage of particular Persons, or of whole Communities, of Mens Souls or Bodies; what<g ref="char:EOLhyphen"/>ever promoteth the Interest of our Relations, or of those that are not at all akin to us, of our own Country<g ref="char:EOLhyphen"/>men or of Strangers, of Friends or of Enemies, it is all here hinted to us. To instruct the Ignorant or Mislead, to feed the Hungry, cloath the Naked, visit the Sick,
+<pb n="6" facs="tcp:101203:5"/>assist the Widows, support the Fatherless, deliver the Oppressed from him that would spoil him, to redeem Captives, to relieve the Distressed, of whatsoever Stock, Family, Country or Religion, they happen to be.</p>
+            <p>To erect Hospitals, to build Work-houses, to endow Schools and Colleges, to settle Annuities for Charitable Uses.</p>
+            <p>All this, and whatever else there is whereby the Wel<g ref="char:EOLhyphen"/>fare, the Ease and Comfort, the Relief, the Subsistence of others is promoted, is included in this Expression of <hi>doing Good.</hi>
+            </p>
+            <p>Great is the Advantage which Rich Men injoy above others, in that by Reason of that Power and Authority which their Riches procure for them, and by Reason of that Plenty whereby they are able to supply the different Necessities of those that want, and to pro<g ref="char:EOLhyphen"/>mote the greatest and most useful Acts of Charity, they may, if they please, make themselves universal Bles<g ref="char:EOLhyphen"/>sings to Mankind, whilst without any limitation or re<g ref="char:EOLhyphen"/>serve they do Good to all Men, and do it (as Occasions offer themselves) all manner of ways.</p>
+            <p n="2">2. <hi>They must be Rich in good Works.</hi> What I have spoken already concerning doing of Good, will in a great measure interpret this Expression of <hi>being Rich in good Works.</hi> For they who do not confine themselves to any particular Acts of Charity, but as they have Opportunity do variously disperse their Bounty, and do Good to all Men, may be truly said to be <hi>Rich in good Works.</hi>
+            </p>
+            <p>I shall therefore only add, that as this Expression does imply different Acts of Charity, so may it likewise hint to us that Constancy which ought to be in the perfor<g ref="char:EOLhyphen"/>mance of them.</p>
+            <pb n="7" facs="tcp:101203:5"/>
+            <p>It is not enough for them who are Rich to do the same Acts of Charity once or twice, to do them at set and solemn Times and Seasons, upon some emergent Occasions, or only at their Death; but <hi>they must be Rich in good Works, i. e.</hi> they must do them over and over again; and if they have not Objects of Charity near them, must look abroad and find them elsewhere.</p>
+            <p>They must not excuse themselves from this Duty by pretending they have given late<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, or that the Times are difficult, and that it will be best to lay up against a bad day: But if God has blessed them with wherewithal to do it, at all Times and in all Seasons, whenever pro<g ref="char:EOLhyphen"/>per Objects of Charity offer themselves, they are bound, according to their Ability, to take notice of, and to be kind to them.</p>
+            <p n="3">3. <hi>They who are Rich in the World must be ready to distribute.</hi> This denotes that willingness and chearful<g ref="char:EOLhyphen"/>ness of Mind which ought to accompany their Charity. There must be no force nor compulsion in it, no regard to any by-ends in the doing it: But they must do it out of a Principle of Conscience, and because they know it to be the Duty of every sincere Christian. Some are bountiful out of meer shame because their Neighbours are so: Others, to gain the applause of Men: Others, to further some particular Design, which by such a show of Piety they hope may be promoted: Others, to make an Atonement, as they think, for their Sins; and others are prevailed upon to be so by the meer sight of pitiful Objects, or by the importunity of bold and impudent Beggars. Now none of these, in all these Cases, can be truly said to be <hi>ready to distribute;</hi> because there is something of compulsion in all of them, and they would never have been so free to relieve others had they
+<pb n="8" facs="tcp:101203:6"/>not been influenced by something else rather than the love of God, and a sense of their Duty.</p>
+            <p>When our Hearts are as open as our Hands; when in affording Relief to others we consult their Interest, and not our own; when we inquire after Objects of Charity our selves; are glad of any Opportunity of doing Good to others; when we expect no Requital or Reward for our Charity, but what God is pleased to bestow upon us; then, and not otherwise, may we be said to express that readiness to distribute which the Apostle here makes mention of.</p>
+            <p n="4">4. And Lastly, <hi>They who are Rich in this World must be willing to communicate.</hi> This is <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Christian Charity, when Men are not only <gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>dy <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o give but to give so largely as to make those, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hom they give to, co-partners with them in the good Things which they injoy.</p>
+            <p>In the early times of Christianity all things were common, and the first Proselites, for fear they should not have wherewithal to supply the Necessities of others, or not be so prudent as they ought to be in their Distributions, sold their Possessions, and laying the Price of them at the Apostles Feet, left it to them to dispose thereof as they thought fit.</p>
+            <p>Now the word which is here interpreted <hi>willing to communicate</hi> is derived from the word which expresseth that liberal participation of one ano<g ref="char:EOLhyphen"/>thers good Things,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> which was so customary in the Apostles days: And therefore St. <hi>Paul</hi> in the Text had, without question, respect thereunto, and was desirous that <hi>Timothy</hi> should put the Rich Men in mind of it.</p>
+            <p>And although there be not now the same Reason for
+<pb n="9" facs="tcp:101203:6"/>the being thus liberal, as there then was, yet it ought to be an Argument to all those who have great Posses<g ref="char:EOLhyphen"/>sions not to stint themselves to any lesser Acts of Cha<g ref="char:EOLhyphen"/>rity, but in Cases of great Necessity to give largely, and rather to trust God's Providence for a fresh Supply, than suffer their distressed Neighbours to perish for want of a seasonable Relief, although it could not be afforded them without a considerable diminution of their own Fortunes.</p>
+            <p>Having thus explained to you the Duties in the Text, I shall now examine the Arguments made use of by the Apostle to enforce the Practice of them.</p>
+            <p>The First of which is fetched from the Nature of those Things which the Rich Men of the World are possessed of: They are <hi>uncertain. Charge them that are Rich in the World that they be not high-minded, nor trust in uncertain Riches.</hi>
+            </p>
+            <p>The Second, from the Nature of God, and the Effects of his Providence. He is a <hi>Living God, who giveth us richly all the good things we injoy.</hi>
+            </p>
+            <p>The Third, from the Consideration of that Reward, which they who perform the forementioned Duties se<g ref="char:EOLhyphen"/>cure to themselves, <hi>They do lay up in store for themselves a good foundation against the time to come, that they may lay hold on Eternal Life.</hi>
+            </p>
+            <p>
+               <hi>First,</hi> Rich Men must not be high-minded nor trust in uncertain Riches, but be Charitable; because Riches are <hi>uncertain</hi> Things. When we think our selves most secure of them, they make themselves Wings and fly away, and leave us full of Grief and Sorrow for the want of them.</p>
+            <p>Let Men be never so industrious in heaping up for
+<pb n="10" facs="tcp:101203:7"/>themselves the good Things of this Life; let them be placed in never such thriving Circumstances; let them be never so watchful over their Concerns, they cannot be assured that their prosperous Condition shall long continue so. Various are the Changes and Alterations which happen in the World. Infinite are the Casualties and Misfortunes of Humane Life; and even the most Inanimate Things prove sometimes the occasion of our Temporal Ruine. One Earthquake may demolish our Houses, one flash of Lightning consume all our Sub<g ref="char:EOLhyphen"/>stance, one Tempest sink all our Fortunes.</p>
+            <p>Besides these, our own Folly, the Folly or Knavery of others, how do they often concur to our Destruction? The Carelesness of a Relation, the Treachery of a pretended Friend may deprive us of all that we possess. Thieves may break into our Houses. A Servant may run away with our Goods. A Perjured Rascal may swear us out of our Estate. They with whom we trusted our Concerns may break and undo us.</p>
+            <p>Not to mention that God sometimes, for Reasons best known to himself, does after an unaccountable manner hinder some Persons from thriving, and consumes what they at present injoy.</p>
+            <p>What a madness then must it needs be for any of us to swell and look big upon the account of what, for ought we know, we may be forced to part with the next Moment? To fansie our selves to be so much above any other part of Mankind, when we cannot be sure how soon our Condition may be much meaner than that of the meanest of them, whom we at present make so little an account of.</p>
+            <p>How much better would it be to do Good with what we have, since we cannot tell but that within a very few Days or Years we may have nothing left us but the Memory of our Benefactions?</p>
+            <pb n="11" facs="tcp:101203:7"/>
+            <p>How much greater Wisdom would it be to oblige Mankind by Acts of Charity and Munificence, to make our selves Friends of the unrighteous Mammon whilst we are able, since by this means we may happen to se<g ref="char:EOLhyphen"/>cure to our selves their aid and assistance when we stand in need thereof, and we know not how soon we may?</p>
+            <p>What could be more for our Advantage than to part with a few uncertain Satisfactions for the certain Favour of God, <hi>who is a living God, and freely giveth us all things?</hi> Which last words contain,</p>
+            <p>The <hi>Second</hi> Argument used by the Apostle to enforce the forementioned Duties, being fetched from the Nature of God and of his Providence. Although Riches are of a transitory and perishing Nature, yet God is not. To rely upon them is to rely upon a broken Reed: But to rely upon God is to rely upon an Immutable Being, who is the same Yesterday, to Day, and for Ever. No cross Accidents can take him from us, nothing can lessen his Power to help us. <hi>He is a living God.</hi>
+            </p>
+            <p>To divest our selves then of all vain Conceits of our own Worth and Excellency, and to place our Trust and Confidence only in him, is the most ready way to be secure from Danger, and to have every thing that is fit and convenient bestowed on us. For his Power is suffi<g ref="char:EOLhyphen"/>cient to do us any kindness; and he has promised not to forsake them who put their trust in him.</p>
+            <p>Which Promise he cannot but be then most inclined to make good in a remarkable manner, when he sees them so chearfully to distribute their Alms to the Ne<g ref="char:EOLhyphen"/>cessities of those whom he has most expresly commanded them to relieve, of those whose Cause he doth after a more especial manner espouse, accounting every Act of Mercy, which is shown to them, to be an instance of good Will towards himself.</p>
+            <pb n="12" facs="tcp:101203:8"/>
+            <p>And as his Power ought to oblige us to perform these Duties, so ought his Goodness too. For he is not only a Living God, but a <hi>God that giveth us richly all things to injoy. In him we live, and move, and have our being;</hi> and unto him we are indebted for all the good Things which we are possessed of. Now to value our selves (as has been already observed) upon the account of what we are beholden to another for, to conside in what is wholly at anothers disposal; when another has been kind to us not to be kind to his Friends, are Instances of the greatest Folly and Ingratitude.</p>
+            <p>Besides, since God's Providence intermixeth it self in all Humane Affairs, we may be assured that he being Infinitely Wise, knows better what is fit for us than we our selves do, and being Infinitely Good will be far from suffering us to want any thing that he knows is con<g ref="char:EOLhyphen"/>venient for us to have: So that by placing our whole. Trust and Confidence in him, and by our expressing, after a peculiar manner, such our Trust and Confidence by Acts of Charity and Beneficence, we may not only ingage him to secure us in our present Possessions, but likewise to be more kind to us than he has hitherto been, and to bestow larger Instances of his Favour up<g ref="char:EOLhyphen"/>on us. But,</p>
+            <p>If the Consideration of the uncertainty of Riches, and of God's Providence intermixing it self in all Hu<g ref="char:EOLhyphen"/>mane Affairs, should not prove a sufficient Motive, to those who are Rich, to be Charitable, and not to trust in their Riches, but only in the Living God, yet me thinks,</p>
+            <p>The Apostles <hi>Third</hi> Argument should, it being fetch<g ref="char:EOLhyphen"/>ed from the Consideration of a Future Reward; <hi>They loday up for themselves in store a good foundation for the
+<pb n="13" facs="tcp:101203:8"/>time to come, that they may lay hold on Eternal Life.</hi> It is the Fault of some Rich Men that they lay up nothing, but consume what God has blest them withal in Luxu<g ref="char:EOLhyphen"/>ry and Intemperance. Others are constant hoarders, but for others, and not for themselves: <hi>They heap up Riches, and cannot tell who shall gather them.</hi> Many times the greatest Portion of them (they being dead and gone) is spent, before it can be decided who ought to possess them. At other times their spend-thrift Heirs consume in a short time what they have been laying up so many Years. At other times their greatest Enemies by Per<g ref="char:EOLhyphen"/>jury, Fraud, open Violence, or sudden Changes in Go<g ref="char:EOLhyphen"/>vernment, become Masters of all the Wealth which they with so much Labour and Industry have for so long time been treasuring up.</p>
+            <p>But now he who trusts in God, and is Charitable, at the same time that he parts with his present Worldly Goods, <hi>lays up for himself Treasures in Heaven, where neither moth nor rust doth corrupt, and where Thieves do not break through and steal.</hi> He lays a good Foundation that he may obtain Eternal Life.</p>
+            <p>Such his behaviour lays indeed a good Founda<g ref="char:EOLhyphen"/>tion for many other things besides. It lays a Founda<g ref="char:EOLhyphen"/>tion of inward Joy and Satisfaction: For nothing can be more delightful than the sense of having done what God commands; of having imitated him in one of his chiefest Attributes, his Goodness; of having in some measure finished what, notwithstanding God's Almigh<g ref="char:EOLhyphen"/>ty Power, was left imperfect; and of having been the cause that others, who were full of Grief and Com<g ref="char:EOLhyphen"/>plaints, live as easie as himself. It lays a Foundation for a good Reputation, it being a practice which all commend, but none ever dared to find fault with, which many wish they could imitate when they are
+<pb n="14" facs="tcp:101203:9"/>not able, and others make a show of imitating when they do not: It being likewise a Practice that will make the World speak well of us when we are in our Graves, that will engage Posterity to admire us, and to bless and praise God for the many Instances we have left of our Bounty and Liberality towards his indigent Servants.</p>
+            <p>It lays a good Foundation for the Friendship of others in the time of need: They being the most likely to meet with kind usage who have used others kindly, when in the same Circumstances.</p>
+            <p>It lays a good Foundation (as has been already taken notice of) for the increase of our Worldly Wealth, by the special Blessing of God's Providence; it being agree<g ref="char:EOLhyphen"/>able to his Goodness, Wisdom, and to that constant Care which he has of Humane Affairs, to heap his Blessings upon such as obey his Laws, upon such as show themselves grateful towards him, and from whom he is sure upon all occasions to receive a Portion, of what he gives, back again for the use of his indigent Servants.</p>
+            <p>But these Things, how excellent soever in themselves, are not to be compared with that inestimable Reward which it intitles them to in another World, with that Eternal Life: For the laying hold whereof the Practice of these Duties does also lay a very great Foundation.</p>
+            <p>Now a Foundation is that upon which the safety and strength of any Building does mainly depend, but yet the Building may be in other respects faulty. The Practice of these Duties alone therefore is not sufficient to secure to us Eternal Happiness; because they who are careful in the performance of them may be faulty in many other respects; but nevertheless they go a great way towards it. They lay a Foundation for the ob<g ref="char:EOLhyphen"/>taining it, and that upon these following accounts.</p>
+            <pb n="15" facs="tcp:101203:9"/>
+            <p n="1">1. In that they dispose towards the performance of all other Religious Duties whatsoever.</p>
+            <p n="2">2. In that they do, after a more especial manner, draw our Minds off from doting too much upon the Things of this Life.</p>
+            <p n="3">3. In that they do beget within us such a temper of Mind as does in a great measure constitute the Happi<g ref="char:EOLhyphen"/>ness of the other World.</p>
+            <p n="1">1. They who are Humble, who trust in God, and are Charitable, do lay a good Foundation for the ob<g ref="char:EOLhyphen"/>taining Eternal Life, in that they hereby become well-disposed towards the performance of all other Religious Duties whatsoever. To fit a Man for Eternal Happi<g ref="char:EOLhyphen"/>ness, it is not sufficient to perform some Duties, and to neglect others; and therefore when we observe it to be annexed to any particular Duties, all other must be supposed to accompany them; and indeed there is such a close connexion betwixt all Religious Duties whatso<g ref="char:EOLhyphen"/>ever, that if one be but rightly performed, it will help forward the right performance of all other. So that if the Duties in the Text be performed out of a true Principle, <hi>viz.</hi> because God requires them at our hands, we shall upon the same Grounds be disposed to obey God in all other respects whatsoever. For if our Con<g ref="char:EOLhyphen"/>sciences teach us that it is reasonable to obey God in some Instances, they will likewise inform us that it is as reasonable to obey him in any other. If they upon the performance of these Duties in the Text, afford us a great deal of pleasure and inward delight, they do at the same time incline us to the practice of such other Duties, from whence we may with just Reason expect the same delight and satisfaction.</p>
+            <p>Besides, they who are humble will be most disposed
+<pb n="16" facs="tcp:101203:10"/>to hearken to Instruction, and to be attentive to any of God's Instructions to Vertue and Holiness; and they who trust in God, and express such their trust in him by Acts of Charity, must needs think themselves ob<g ref="char:EOLhyphen"/>liged to do every thing that may secure them an Interest in his Favour whom they thus rely upon: And conse<g ref="char:EOLhyphen"/>quently they will thereby be put upon Worshipping him, upon Praying unto him, and giving him Thanks, and upon indeavouring to pay an intire Obedience to all his Commands. The same will likewise very much dispose them for the practice of Temperance; for they who give so freely for the relief of others, will have less to spend upon the gratification of their own Lusts and Af<g ref="char:EOLhyphen"/>fections. And as for all those Duties which relate to our Neighbour, the doing Works of Charity, being the highest Instance of Affection for him, contains all the rest under it. For how can he be Unjust, Malicious, Envious, Cruel, or the like, who is desirous that all near and about him should live comfortably as well as himself, and therefore can and does chearfully lessen his own Income, that they may not be destitute of a fit and convenient Subsistence? So that there is scarce any duty of Religion which the Duties in the Text don't some way or other urge us to perform, and thereby <hi>lay a good Foundation against the time to come, that we may lay hold on Eternal Life.</hi>
+            </p>
+            <p n="2">2. The Duties in the Text do lay a good Foundation for the obtaining Eternal Life, in that they do, after a particular manner, wean our Minds from doting too much upon the Things of this Life. Abundance of Riches are apt to take up all our Time, to engage all our Thoughts, to engross all our Affections, to imploy all our Endeavours, so that we shall neither have Lei<g ref="char:EOLhyphen"/>sure nor a Mind to weigh and consider any thing else,
+<pb n="17" facs="tcp:101203:10"/>nor be willing to attend to Things more excellent, and of a more weighty and necessary Concernment.</p>
+            <p>Now by resigning our selves up with all Humility to God's disposal, and by freely parting with our World<g ref="char:EOLhyphen"/>ly Goods to relieve those whom he has commanded us to take care of, we do cut off many of those Tempta<g ref="char:EOLhyphen"/>tions, which would otherwise obstruct our inquiries after Heaven and Happiness; we lessen our present Cares about Temporal Injoyments, and by that means have more hours to spend about God and Religion.</p>
+            <p>By giving away what the greatest part of Mankind is wont to have so great a regard for, we declare our selves to be but Strangers and Pilgrims here: That our Expectations reach higher than this World: That we despise all these splendid Trifles and glittering Vanities here below in comparison of that Eternal Bliss and Glory which we have the promise to be made partakers of in the Life to come. And by how much the Plea<g ref="char:EOLhyphen"/>sures of another State are more in our Thoughts, by so much more will our Affections move towards them, by so much more shall we be excited to do every thing ne<g ref="char:EOLhyphen"/>cessary for the obtaining them.</p>
+            <p n="3">3. And Lastly, By the Duties in the Text is laid up a good Foundation for the obtaining Eternal Life; be<g ref="char:EOLhyphen"/>cause the Practice of them does beget within us such a Temper of Mind as does in a great measure constitute the Happiness of the other World. The Inhabitants of Heaven are always content with their present Cir<g ref="char:EOLhyphen"/>cumstances, are not in the least conceited of their own worth, nor do they aspire towards any thing above God's allowance; but their Hearts and Lips are con<g ref="char:EOLhyphen"/>stantly full of thankful Acknowledgments for his gra<g ref="char:EOLhyphen"/>cious dealings with them, and they do every moment of their Lives depend upon his Almighty Power, his
+<pb n="18" facs="tcp:101203:11"/>Infinite Goodness, his Faithfulness to perform his Pro<g ref="char:EOLhyphen"/>mises for the continuance of that Happiness which they are possessed of.</p>
+            <p>And as for all kind of Offices of Love and Friendship, these are their constant Study and Imployment. For the Kingdom of Heaven is a Kingdom where there is nothing of Strife and Contention, nothing of Hatred and Malice, nothing of Covetousness and Ill Nature, but where the Subjects thereof live in perpetual Peace and Amity both with their Prince, and with one ano<g ref="char:EOLhyphen"/>ther; where all the kind Arts of Endearment are im<g ref="char:EOLhyphen"/>proved to their highest pitch and perfection; where all endeavour the Ease and Contentment of those they con<g ref="char:EOLhyphen"/>verse with, always striving, by all the Arts of a sincere Affection, to oblige one another, and to render those they converse with as happy as themselves.</p>
+            <p>Now the more humble and contented we are in this Life, the more likely we are to be so affected in the next. The more we learn to depend upon God at pre<g ref="char:EOLhyphen"/>sent, the better disposed we shall be to do it hereafter. The more kind we are to one another in this World, the fitter we shall be for the Conversation of Saints and Angels in the World to come.</p>
+            <p>Not that we shall then have occasion to perform any such Acts of Charity as relate to the Necessities of others: For we shall not meet with any in Heaven who stand in need of them. All there will be Rich as well as we, and many of those whom we now relieve in as joyful a Condition as their late Benefactors. But the very per<g ref="char:EOLhyphen"/>formance of such Acts of Beneficence at present, does therefore fit us for the Conversation of those Blessed Souls above, in that it begets within us a good liking and esteem for one another, a sincere and earnest desire of our Neighbours Welfare, a satisfaction in his pros<g ref="char:EOLhyphen"/>perous
+<pb n="19" facs="tcp:101203:11"/>Condition. All which are the chief ingredients that make Heaven so delightful a place, and the Friend<g ref="char:EOLhyphen"/>ship of Saints and Angels to be so charming as it is.</p>
+            <p>Having thus examined the Arguments made use of by the Apostle to enforce the Duties in the Text, I should now in the Third and last place consider the Ob<g ref="char:EOLhyphen"/>ligation which lies upon the Ministers of the Gospel to teach others the Necessity and Advantage of them.</p>
+            <p>The Apostle St. <hi>Paul,</hi> in speaking to <hi>Timothy,</hi> saith to all the inferiour Ministers and Dispensers of God's Word, <hi>Charge them that are Rich that they be not high<g ref="char:EOLhyphen"/>minded, nor trust in uncertain Riches,</hi> &amp;c.</p>
+            <p>Rich Men therefore must not take it amiss, since they see from whence we derive our Commission, if we often press upon them the observance of these Duties.</p>
+            <p>But I hope that my having inlarged upon the fore<g ref="char:EOLhyphen"/>mentioned Arguments will at present excuse me from assuming that Authority which by my Function belongs to me.</p>
+            <p>Especially since by reading the following Report I shall represent to your Thoughts what may happen to have a greater influence upon you, <hi>viz.</hi>
+            </p>
+            <p>The good Effects of your Predecessors Charity, as well as of some amongst your selves.</p>
+            <q>
+               <hi>The Report,</hi> &amp;c.</q>
+            <p>You have heard the Report; from whence you may easily gather what great Things have been, and are daily, done by the Rich and Good Men of this Renowned City.</p>
+            <p>How diligent and careful they are in the administra<g ref="char:EOLhyphen"/>tion of other Mens Charity.</p>
+            <pb n="20" facs="tcp:101203:12"/>
+            <p>How liberal oftentimes in dispensing their own.</p>
+            <p>But yet I cannot but with some sort of Grief and in<g ref="char:EOLhyphen"/>ward Compassion observe to you, That all the Hospi<g ref="char:EOLhyphen"/>tals do make Complaint of their Wants, and seem in a humble manner to intimate that Charity is grown colder of late than it was formerly.</p>
+            <p>Now the Necessities of Mankind, I am sure, are not fewer than they have been formerly.</p>
+            <p>It cannot therefore but be a Melancholly Considera<g ref="char:EOLhyphen"/>tion to think that in so Populous and Wealthy a City, there should be fewer Benefactors found to relieve them.</p>
+            <p>Should I ask the Governours of <hi>Christs-Church</hi> Hos<g ref="char:EOLhyphen"/>pital, what is the Reason that the List of their Orphans decreaseth Yearly?</p>
+            <p>That so many Children are dismissed their House, and none received into their Places?</p>
+            <p>Should I say unto them,</p>
+            <p>Have all the Citizens of <hi>London</hi> been of late so pros<g ref="char:EOLhyphen"/>perous, as neither by their Misfortunes, nor their Fol<g ref="char:EOLhyphen"/>lies, to leave, when they dye, their Families in want?</p>
+            <p>Have none of their Widows been with you to receive their Sons and Daughters into your Care, and to ease them of the burthen of them?</p>
+            <p>Would they not reply? Alas, we never were more pressed to receive Children into our House, neither was there ever greater Occasion that we should.</p>
+            <p>But what would you have us do?</p>
+            <p>We have not wherewithal to Maintain those we have already.</p>
+            <p>There is a great Debt upon us, and our Gifts are but very few.</p>
+            <p>Rich Men now a-days not only forget us whilst they are alive, but also in their last Wills and Testaments.</p>
+            <p>This I fear would be their Excuse; but it is a thou<g ref="char:EOLhyphen"/>sand
+<pb n="21" facs="tcp:101203:12"/>pities that they should be constrained to make it.</p>
+            <p>For the Case of distressed Orphans is very sad.</p>
+            <p>They can have no Contrivance for present Mainte<g ref="char:EOLhyphen"/>nance.</p>
+            <p>Neither do they understand whom it is proper to make application unto for Relief.</p>
+            <p>They are but just come into the World, and for want of a prudent Education may happen to spend a long term of Years in Misery, and sometimes in Vice, and to be for ever miserable in the World to come.</p>
+            <p>Which way then can any Rich Man better bestow his Charity, than by throwing part of it into that noble Fund?</p>
+            <p>Where not only Food and Raiment, but such excel<g ref="char:EOLhyphen"/>lent Instruction also, both as to Learning and Manners, is provided for these Orphans, as may not only prevent their taking ill Courses,</p>
+            <p>But may likewise put them into a way of Thriving in the World, and of being in time Benefactors themselves.</p>
+            <p>I will add one Thing more on their behalf.</p>
+            <p>They do upon these Solemn Occasions make a noble part of your Procession.</p>
+            <p>By them you make your publick boast, not only to the whole Nation, but to Strangers and Foreigners, how kind you are to the Fatherless, and what great Care you take of them.</p>
+            <p>In Requital therefore to the Honour which is done your City by their Appearance, it may well become you to have a particular Regard to their Hospital, and to contrive some way both to increase their Annual Reve<g ref="char:EOLhyphen"/>nues, and to put them out of Debt.</p>
+            <p>But I am called from <hi>Christ-Church</hi> by the Sighs and Groans, the Shreiks and Lamentations of a company of miserable Wretches.</p>
+            <pb n="22" facs="tcp:101203:13"/>
+            <p>Some with broken Legs and Arms, some with woun<g ref="char:EOLhyphen"/>ded and mangled Members, some with Ulcers and pu<g ref="char:EOLhyphen"/>trified Sores, some thin and meagre like a shadow, others swelled to a prodigious bigness.</p>
+            <p>Some tortured with most wracking Pains in parti<g ref="char:EOLhyphen"/>cular parts of their Bodies.</p>
+            <p>Others weak and infirm in all their Limbs.</p>
+            <p>All which, with many other in the like sad Circum<g ref="char:EOLhyphen"/>stances, do earnestly beg to be consider'd.</p>
+            <p>And to have some Cure afforded them by the Charity of others, which they are not able to be at the Charge of themselves.</p>
+            <p>But the Governours both of St. <hi>Bartholomew</hi>'s, and of St. <hi>Thomas</hi>'s Hospital, are ready to make answer;</p>
+            <p>That it grieves them very much to deny these Poor People their Request; that they are overcharged alrea<g ref="char:EOLhyphen"/>dy with Persons in their Condition.</p>
+            <p>That their Contingent Charities are of late much fall'n off, and their Income is too scanty to Maintain their present Charge.</p>
+            <p>Now how can any Wealthy Citizen, who fares de<g ref="char:EOLhyphen"/>liciously every day, who keeps a number of Servants, and has his House (or rather Palace) adorn'd with Plate, and with all sorts of costly Furniture, hear this?</p>
+            <p>And yet never think of sending to these miserable Wretches the least Relief.</p>
+            <p>How can he have the Heart to make his Will, and therein to give to every Son and Daughter several Thou<g ref="char:EOLhyphen"/>sands, and to bequeath nothing to either of the fore<g ref="char:EOLhyphen"/>mentioned Houses?</p>
+            <p>
+               <hi>Bridewell</hi> comes next under your Consideration, which earnestly begs your Liberal Contributions, and more than ever deserves them.</p>
+            <p>Because by the Zeal and Activity of those who seem
+<pb n="23" facs="tcp:101203:13"/>desirous to contribute all they can towards the Reforma<g ref="char:EOLhyphen"/>tion of Mens Manners, the Number of those which have been under the Discipline of that Hospital has been of late much greater than formerly.</p>
+            <p>And who would not give to the Maintenance of that Place, which keeps Vice somewhat in awe.</p>
+            <p>And which by hard Labour, and good wholesome Chastisement, brings bold and obstinate Offenders to a due sense of their past Impieties.</p>
+            <p>And by the Means of Bodily Punishment helps often<g ref="char:EOLhyphen"/>times to save their Souls.</p>
+            <p>But here perhaps an Address to the Governours of this Hospital will be more seasonable than to any other part of this Auditory.</p>
+            <p>Whom when I desire to be Charitable, I do most earnestly beseech to put off all Bowels of Compassion, and to exercise the Trust that is reposed in them with the utmost Rigour.</p>
+            <p>The Persons who come under your Cognisance are, for the most part, the Pests and Plagues of Mankind.</p>
+            <p>The Scandal of your Nation, and of your Religion too.</p>
+            <p>It is by their Means (I take in both Sexes) that so many open Villanies are daily committed in your Streets.</p>
+            <p>It is by their Means that the Youth of this Town is so often corrupted, and Gentlemen of the best Quality and greatest Hopes ruin'd and undone.</p>
+            <p>It is by their Means that you cannot lye secure in your Beds, nor travel in safety upon the Roads.</p>
+            <p>It is by their Means that the other Hospitals are so full.</p>
+            <p>That so many Widows, by Reason of their Husbands too frequent Conversation with some of these Riotous Companions, are left with a numerous train of Chil<g ref="char:EOLhyphen"/>dren, and without one Penny to maintain them.</p>
+            <p>And that so many diseased and rotten Carcases are
+<pb n="24" facs="tcp:101203:14"/>forced to be patched up at the Publick Charge.</p>
+            <p>Pity therefore in you would be the greatest Cruelty.</p>
+            <p>Neither can you do a greater piece of Service, either to God, or your Country, or to these wicked People themselves, than to make them smart severely for their Offences.</p>
+            <p>That so, if it be possible, they may be reclaimed, at least so far as never to run the hazard of coming under your Discipline any more.</p>
+            <p>And that the Severity of their Punishment may prove a warning to others not to be guilty of the like Crimes.</p>
+            <p>
+               <hi>Bethlem</hi> Hospital stands last in your Roll, but com<g ref="char:EOLhyphen"/>plains as much of its Debts and Wants, and Petitions as earnestly for a share in your Charity as any of the Four former.</p>
+            <p>And how can you be so hard-hearted as not to afford some Comfort to Persons that have lost their Reason and Understanding?</p>
+            <p>To such as, like the possessed in the Gospel, run Naked about your Streets crying, and cutting them<g ref="char:EOLhyphen"/>selves with Stones.</p>
+            <p>Their Condition is most of all other deplorable, be<g ref="char:EOLhyphen"/>cause they have no Sense thereof themselves.</p>
+            <p>And you will seem to have imitated our Saviour, in having wrought a Miracle upon them.</p>
+            <p>If by your Bounty, instead of being Chain'd and Fet<g ref="char:EOLhyphen"/>ter'd in their dark Apartments we behold them in the Temple praising God for their Recovery, <hi>i. e. sitting at Jesus Feet, and in a right Mind.</hi>
+            </p>
+            <p>Neither will such your kindness towards them want even its present Reward: For they will certainly <hi>pub<g ref="char:EOLhyphen"/>lish, wherever they come, what great things you have done for them.</hi>
+            </p>
+            <pb n="25" facs="tcp:101203:14"/>
+            <p>But I know it will be Replyed;</p>
+            <p>That although the Complaints of the Hospital are very just, yet that theirs are as great and just too, who suggest to us how hard the Times have been, and how great the decay of Trade throughout the whole Kingdom.</p>
+            <p>But it is not to the Indigent, to such as neither have Estates nor Trade, to whom the Hospitals offer their Complaints.</p>
+            <p>It is to such, as not to mention greater Sums, are worth Forty, Thirty, Twenty, Ten, Five, and so down to Two or Three Thousand Pounds.</p>
+            <p>Would but these devote some Yearly Portion, in proportion to what God has blessed them with, to the Necessities of others.</p>
+            <p>Would they but keep as exact an account thereof within their Books, as they do of other Matters,</p>
+            <p>The Hospitals might soon be out of Debt, and in a most Flourishing Condition.</p>
+            <p>Nay, would but they who have their constant Even<g ref="char:EOLhyphen"/>ing Meetings, even such Meetings as are the most in<g ref="char:EOLhyphen"/>nocent, stay at home one Night in the Week with their Wives and Families, and lay aside for Charitable Uses what would have been then spent abroad, what a considerable Sum might by this Means be raised, and no Body feel the want of it?</p>
+            <p>So easie it is, for those who are well inclined, to find ways of doing Good to others without doing the least Harm to themselves.</p>
+            <p>But I shall now recommend a far cheaper way of being Charitable in an high degree: And such a way, as I hope the most Covetous will both approve of, and endeavour all they can to promote: For it will cer<g ref="char:EOLhyphen"/>tainly save them Money, if it takes effect.</p>
+            <pb n="26" facs="tcp:101203:15"/>
+            <p>I shall keep you no longer in suspense: It is that very way which, as I am told, you your selves are now upon. I mean, that noble Design of Building Work<g ref="char:EOLhyphen"/>houses, and of constraining all the Poor that are able, both Young and Old, to take Pains for their Living.</p>
+            <p>This is so Glorious, and so Useful, an Undertaking, that were it but once brought to an happy Conclusion, there would be no such Occasion for Accidental Cha<g ref="char:EOLhyphen"/>rities, as there now is.</p>
+            <p>The Poor, instead of being so great a burthen to you, would contribute very much to make you Rich.</p>
+            <p>You would then be free from those importunate Beg<g ref="char:EOLhyphen"/>gars, which are now so troublesome both to your Shops and Churches.</p>
+            <p>You would then have fewer Orphans to maintain; because their Parents, being bred up to Industry, would not so often leave them in such mean Circumstances as they commonly now do.</p>
+            <p>It would help to rid the City of Thieves, House-breakers, and other such like pilfering Companions; who for want of being forced to Work live upon Ra<g ref="char:EOLhyphen"/>pine and Spoil, and upon doing Injuries to their inno<g ref="char:EOLhyphen"/>cent Neighbours.</p>
+            <p>Nay, your Hospitals for the Sick would be less crowded then they are; many Diseases and Sicknesses being oftentimes occasion'd by those Vices of which Idleness is commonly the chiefest Cause.</p>
+            <p>Let not therefore any Difficulties discourage those, who are ingaged in so great and so good a Work, from prosecuting it to the utmost of their Power.</p>
+            <p>Neither let there be any Dissensions amongst them, in respect thereof, upon the account of Party or Opi<g ref="char:EOLhyphen"/>nion, nor Emulations, unless it be about being most zealous to promote it.</p>
+            <pb n="27" facs="tcp:101203:15"/>
+            <p>It is a Design which some lesser Corporations have already attempted with good Success; and whose Ex<g ref="char:EOLhyphen"/>ample others are preparing to follow as fast as they can.</p>
+            <p>And what a shame would it then be for the Metro<g ref="char:EOLhyphen"/>polis of the Kingdom, whose Riches are so great and whose Interest is so considerable, to be the last in tast<g ref="char:EOLhyphen"/>ing the blessed Fruits of it!</p>
+            <p>Go on therefore, I beseech you, with Courage and Resolution, and with what convenient Speed you can, in what you are about; and whatever opposition you may happen to meet with, <hi>be not weary in well-doing.</hi>
+            </p>
+            <p>And may that God who is pleased to reckon it his chief Commandment, <hi>that we love one another,</hi> and who interprets all Acts of Mercy, which are shown to his Indigent Servants, to be done to himself, bless and prosper you in this your Righteous Enterprise. May he never forget your works and Labour that proceed<g ref="char:EOLhyphen"/>eth of Love. And may every one of you for the Time, Pains and Expences, he shall be at therein, receive from him an Hundred Fold in this World, and be made an Inheritour of Eternal Life and Glory in the World to come.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="by_the_same_author">
+            <p>DR. <hi>Lynsord</hi>'s Sermon before the Lord-Mayor, <hi>November</hi> 16. 1679, on 2 <hi>Chron.</hi> 20.17.</p>
+            <p>—'s Sermon, <hi>God's Providence the Cities Safety,</hi> before the Lord-Mayor, <hi>Feb.</hi> 24. 1688/9, on <hi>Psalm</hi> 127.1.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
